@@ -8,7 +8,7 @@ from docx.oxml import OxmlElement
 
 
 # Azure Translator settings
-subscription_key = '4f2199a9f98a4536892819408c6a7207'  # Your Azure Translator subscription key
+subscription_key = ''  # Your Azure Translator subscription key
 endpoint = 'https://api.cognitive.microsofttranslator.com/'  # The endpoint URL for the Translator API
 location = 'eastus'  # Your resource location
 
